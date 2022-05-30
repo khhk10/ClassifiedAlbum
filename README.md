@@ -1,5 +1,5 @@
 # ClassifiedAlbum
-A photo album that photo using CoreML
+A photo album that classifies photos using CoreML
 
 ### Function
 - Adds photos from Photo Library app and store data
